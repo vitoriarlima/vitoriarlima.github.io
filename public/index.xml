@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Vitoria Lima</title>
+    <link>https://vitoriarlima.github.io/</link>
+    <description>Recent content in About on Vitoria Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vitoriarlima.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://vitoriarlima.github.io/posts/2023/my-first-post/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vitoriarlima.github.io/posts/2023/my-first-post/</guid>
+      <description>Here I will try to start a new habit of posting ML notes and/or thoughts of papers I will be reading or revising.
+Most of the time I just read things and don&amp;rsquo;t keep track of them, so from here I am trying to develop this new good habit.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vitoriarlima.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vitoriarlima.github.io/about/</guid>
+      <description>Welcome! This is my professional website.
+I am a master&amp;rsquo;s graduate of SEAS at Harvard University.
+Let&amp;rsquo;s get in touch! I&amp;rsquo;m best reached through my email, vitoria[at]vitorialima[dot]com.
+Academia In the time of my master&amp;rsquo;s, I completed my master thesis and was a research fellow at the Microrobotics Lab, advised by Prof. Robert Wood and Prof. Daniel Bruder, where I worked towards reducing the time needed to train reinforcement learning algorithms for soft robotic arms.</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://vitoriarlima.github.io/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vitoriarlima.github.io/books/</guid>
+      <description>I love reading. However, because of striving for a high GPA during my time in academia I never allowed myself to give myself time for pleasure reading.
+These are the books I am trying to read at the moment.
+2023 Currently Reading Born a Crime, Trevor Noah Becoming, Michelle Obama The Light We Carry, Michelle Obama </description>
+    </item>
+    
+    <item>
+      <title>Curriculum complexity</title>
+      <link>https://vitoriarlima.github.io/projects/rl-request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vitoriarlima.github.io/projects/rl-request/</guid>
+      <description>My master&amp;rsquo;s thesis is available upon request.</description>
+    </item>
+    
+  </channel>
+</rss>
