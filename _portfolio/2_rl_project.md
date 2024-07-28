@@ -1,5 +1,5 @@
 ---
-title: "Project 2: Curriculum Complexity applied in RL simulation complexity to lighten and speed up an agent's training time."
+title: "Project 2: Curriculum Learning applied in RL simulation complexity to lighten and speed up an agent's training time."
 excerpt: "Work done under the supervision of Professor Daniel Bruder and Professor Robert Wood at the Harvard's Microrobotics Lab."
 collection: portfolio
 permalink: /portfolio/2_rl_project
@@ -7,6 +7,13 @@ permalink: /portfolio/2_rl_project
 ---
 
 ### Curriculum Complexity: A Framework for Computationally Efficient Reinforcement Learning Control of Soft Robotic Agents
+
+<div style="text-align: center;">
+    <figure>
+        <img src="/files/curr_compl.png" alt="Curr" width="500" />
+        <figcaption>Figure 1: In Blue is the training with Curriculum Learning per simulation complexity. In Red is a training with the most 'complex' simulation throughout the entire training process. As seen from the graphs on the right, the training done with Curriculum Complexity are successfully completed in almost <strong>half</strong> of the training time and compute. </figcaption>
+    </figure>
+</div>
 
 ## Overview
 
@@ -30,6 +37,14 @@ This project presents a framework for reducing the computational expense associa
 
 1. **Planar Reaching**: Trained agents with 2, 5, 10, and 20 segments per actuator to observe the impact of discretization on training time and learned behaviors.
 2. **Block Pushing**: Conducted similar experiments with 2, 5, 10, and 20 segments per actuator, noting the differences in training duration and performance.
+
+<div style="text-align: center;">
+    <figure>
+        <img src="/files/without_curr_compl.png" alt="Curr2" width="500" />
+        <figcaption>Figure 2: The more complexity is added, the more the agent is able to learn the physics of movement and the more rewards are achieved in the RL training Process. But this comes at the expense of time compute, see how the Red Line (most complex simulaiton) takes almost 4x as the least complex simulation to complete.  
+    </figure>
+</div>
+
 
 #### Curriculum Complexity
 
