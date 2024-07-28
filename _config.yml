@@ -216,7 +216,7 @@ collections:
     permalink: /:collection/:path/
   notes:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
 
 
 # Defaults
