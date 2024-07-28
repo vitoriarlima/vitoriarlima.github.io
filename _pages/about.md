@@ -13,6 +13,7 @@ redirect_from:
 - ML engineer. Harvard CS Master's Grad (computational science and engineering) 
 - polyglot (5+ fluent languages) and world traveller (italian, brazilian citizen + us work visa) 
 - previously trader at Bank of America and Goldman Sachs
+- have a look at my AI/ML and some finance related projects [here](https://vitoriarlima.github.io/portfolio/)!
 
 
 
