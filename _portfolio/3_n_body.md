@@ -7,7 +7,7 @@ permalink: /portfolio/3_n_body
 ---
 
 <div style="text-align: center;">
-    <img src="/files/N_body_simulation_.gif" alt="nbody" width="500" />
+    <img src="/files/N_body_simulation_.gif" alt="nbody" width="300" />
 </div>
 
 ## Overview

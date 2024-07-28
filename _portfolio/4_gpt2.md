@@ -10,7 +10,7 @@ permalink: /portfolio/4_gpt2
 
 <div style="text-align: center;">
     <figure>
-        <img src="/files/transformer_layer.png" alt="Language Generation Example 1" width="200">
+        <img src="/files/transformer_layer.png" alt="Language Generation Example 1" width="50">
         <figcaption>Figure 1: A transformer Layer</figcaption>
     </figure>
 </div>
