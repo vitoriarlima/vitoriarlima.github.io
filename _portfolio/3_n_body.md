@@ -6,6 +6,9 @@ permalink: /portfolio/3_n_body
 
 ---
 
+<div style="text-align: center;">
+    <img src="/files/N_body_simulation_.gif" alt="nbody" width="500" />
+</div>
 
 ## Overview
 
@@ -42,5 +45,5 @@ To read the full analysis, you can download the [PDF file](/files/N_body_simulat
 
 ---
 
-![Simulation Visualization 1](/files/N_body_simulation_.gif)
+<!-- ![Simulation Visualization 1](/files/N_body_simulation_.gif) -->
 

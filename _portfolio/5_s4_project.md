@@ -9,6 +9,12 @@ permalink: /portfolio/5_s4_project
 
 ### Sequential Decision Modelling using Structured State Spaces
 
+<div style="text-align: center;">
+    <img src="/files/s4dm.gif" alt="HalfCheetah" width="500" />
+    <img src="/files/s4dm1.gif" alt="Walker2d" width="500" />
+</div>
+
+
 ## Overview
 
 This project explores the application of sequence models to the problem of credit assignment in Reinforcement Learning (RL). Specifically, it involves implementing a novel architecture, the Structured State Space Sequence Model (S4), within the framework of Decision Transformers. The aim is to improve the agent's ability to determine the true source of returns from a trajectory of states and actions, especially in environments with long episodes and sparse rewards.
@@ -54,9 +60,9 @@ Slides deck presentation of the results [here](https://docs.google.com/presentat
 <!-- <img src="../files/s4dm1.gif" alt="Walker2d" width="450"> --> 
 
 
-### Pretty Visualizations
+<!-- ### Pretty Visualizations
 
 <div style="text-align: center;">
     <img src="/files/s4dm.gif" alt="HalfCheetah" width="500" />
     <img src="/files/s4dm1.gif" alt="Walker2d" width="500" />
-</div>
+</div> -->

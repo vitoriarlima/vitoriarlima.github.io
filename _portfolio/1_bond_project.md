@@ -5,7 +5,13 @@ collection: portfolio
 permalink: /portfolio/1_bond_project
 ---
 
+
 ### Principal Component Analysis of the Term Structure of European Interest Rate Yields
+
+<!-- ![Time Path of the Term Structure](/files/Bond_2.png) -->
+<div style="text-align: center;">
+    <img src="/files/Bond_2.png" alt="Bond" width="500" />
+</div>
 
 ## Overview
 
@@ -26,6 +32,15 @@ This project explores the application of Principal Component Analysis (PCA) to t
   3. **Part 3**: Negative interest rate environment (2014-2017)
   4. **Part 4**: Deep negative interest rate environment (2017-2020)
   5. **Part 5**: Extended negative interest rate period (2014-2020)
+
+<div style="text-align: center;">
+    <img src="/files/Bond_.png" alt="bonds2" width="500" />
+    <img src="/files/Bond_3.png" alt="bonds3" width="500" />
+</div>
+
+
+<!-- ![Bond Maturities over time](/files/Bond_.png)
+![Yield Curves from AAA rate bonds in the european area](/files/Bond_3.png) -->
 - **Stationarity**: Ensuring stationarity of the data by taking the first differences of the yields.
 - **PCA Implementation**: Conduct PCA on the correlation matrix of the first differences of the yield data to identify the principal components.
 
@@ -49,10 +64,10 @@ To read the full analysis, you can download the [PDF file](https://vitoriarlima.
 
 ---
 
-### Pretty Visualizations
+<!-- ### Pretty Visualizations
 
 ![Bond Maturities over time](/files/Bond_.png)
-
-![Time Path of the Term Structure](/files/Bond_2.png)
-
 ![Yield Curves from AAA rate bonds in the european area](/files/Bond_3.png)
+
+![Time Path of the Term Structure](/files/Bond_2.png) -->
+
