@@ -50,8 +50,8 @@ To read the full analysis, you can download the [PDF file](https://vitoriarlima.
 
 ### Pretty Visualizations
 
-![Bond Maturities over time](/Users/vitorialima/Desktop/personal/personal website/vitoriarlima.github.io-/files/Bond maturities over time.png)
+![Bond Maturities over time](../files/Bond_.png)
 
-![Time Path of the Term Structure](/Users/vitorialima/Desktop/personal/personal website/vitoriarlima.github.io-/files/Time path of the term structure.png)
+![Time Path of the Term Structure](../files/Bond_2.png)
 
-![Yield Curves from AAA rate bonds in the european area](/Users/vitorialima/Desktop/personal/personal website/vitoriarlima.github.io-/files/Yield curves from AAA-rated bonds in the european area.png)
+![Yield Curves from AAA rate bonds in the european area](/files/Bond_3.png)

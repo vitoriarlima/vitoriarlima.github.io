@@ -45,6 +45,6 @@ This framework demonstrates the potential of curriculum learning in enhancing th
 
 ### Repository and Resources
 
-To read the full analysis, you can download the [PDF file](/Users/vitorialima/Desktop/personal/personal website/vitoriarlima.github.io-/files/Vitoria___Master_Thesis.pdf).
+To read the full analysis, you can download the [PDF file](../files/Vitoria___Master_Thesis.pdf).
 
 

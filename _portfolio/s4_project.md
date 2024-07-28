@@ -46,6 +46,6 @@ Slides deck presentation of the results [here](https://docs.google.com/presentat
 
 ### Pretty Visualizations
 
-![HalfCheetah](/Users/vitorialima/Desktop/personal/personal website/vitoriarlima.github.io-/files/s4dm.gif)
+![HalfCheetah](../files/s4dm.gif)
 
-![Walker2d](/Users/vitorialima/Desktop/personal/personal website/vitoriarlima.github.io-/files/s4dm1.gif)
+![Walker2d](../files/s4dm1.gif)
