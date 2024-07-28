@@ -21,7 +21,7 @@ redirect_from:
 
 ## Hello - welcome to my corner of the internet!
 
-I am a Machine Learning Engineer and recent master's graduate of [SEAS at Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). In the time of my master’s, I completed my master thesis and was a research fellow at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/), advised by Prof. Robert Wood and Prof. [Daniel Bruder](https://danielbruder.com/), where I worked towards reducing the time needed to train reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software).
+I am a Machine Learning Engineer and recent master's graduate of [SEAS at Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). In the time of my master’s, I completed my master thesis and was a research fellow at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/), advised by Prof. Robert Wood and Prof. [Daniel Bruder](https://danielbruder.com/), where I worked towards reducing the time needed to train reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software). Prior to this, I obtained my bachelor’s degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html) in Germany.
 
 I have taken coursework in data science, numerical methods, reinforcement learning, computer vision, deep learning, and natural language processing ~ and I am so excited about where the ML industry is going. What excites me the most within ML/AI these days:
 - anything related to state space models ([S4](https://srush.github.io/annotated-s4/), [Mamba](https://github.com/state-spaces/mamba), and friends)
