@@ -10,7 +10,7 @@ permalink: /portfolio/2_rl_project
 
 <div style="text-align: center;">
     <figure>
-        <img src="/files/curr_compl.png" alt="Curr" style="width: 50px; height: 50px;" />
+        <img src="/files/curr_compl.png" alt="Curr" style="width: 500px; height: 500px;" />
         <figcaption>Figure 1: In Blue is the training with Curriculum Learning per simulation complexity. In Red is a training with the most 'complex' simulation throughout the entire training process. As seen from the graphs on the right, the training done with Curriculum Complexity are successfully completed in almost <strong>half</strong> of the training time and compute.</figcaption>
     </figure>
 </div>
