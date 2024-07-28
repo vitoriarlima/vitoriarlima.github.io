@@ -15,11 +15,11 @@ I have taken coursework in data science, numerical methods, reinforcement learni
 - anything related to state space models (S4, Mamba, and friends)
 - [unsloth](https://unsloth.ai/introducing) and creative mathematical ways to improve/speed up deep learning 
 
-About Me
-====
+### About Me
+
 I speak 5 languages (Italian, Spanish, Portuguese, German, English) fluently, and counting (learning Russian), and I have so far lived in 6 countries, and counting. I am a lover of communication and of different cultures. Also, I am a first-gen student, hence if you are applying to Harvard and are a first-gen, do not hesitate to contact me with questions. Additionally, I have a cat and I love surfing. Particularly, I love longboarding, and I dream of hang ten one day soon.
 
-Finance ~ Banking
-=====
+### Finance ~ Banking
+
 Before venturing into machine learning, I was an interest rates trader for European government bonds at [Bank of America](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI) and at [Goldman Sachs](https://www.goldmansachs.com/what-we-do/FICC-and-equities/). I obtained my bachelor’s degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html) in Germany. My Bachelor's degree Thesis was in [PCA applied to the European term structure (European yield bond curves)](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf), answering the question of whether PCs would be affected by a negative interest rates environment. It was warmly welcomed and won [1st prize](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/lehre/foerderpreis_monetaere_makro/index.html) for best thesis of the year in my Econometrics department at the time, with a generous donation from the German Central Bank (Deutsche Bundesbank).
 
