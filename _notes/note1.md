@@ -3,7 +3,7 @@ title: "Note No.1"
 excerpt: "Building Good Habits. Tidying up my AI/ML and finance notes."
 collection: notes
 permalink: /notes/note1
-layout: post
+layout: archive
 
 ---
 
