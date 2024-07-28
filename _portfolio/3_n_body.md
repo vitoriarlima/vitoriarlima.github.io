@@ -2,6 +2,8 @@
 title: "3. N Body Simulation"
 excerpt: "Efficient N-body Simulation Using Parallel Computing"
 collection: portfolio
+permalink: /portfolio/3_n_body
+
 ---
 
 

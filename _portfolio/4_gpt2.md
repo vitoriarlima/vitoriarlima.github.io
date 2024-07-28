@@ -2,6 +2,8 @@
 title: "4. GPT2 Finetuning (this dates back to Fall 2021, so: before it became cool essentially)"
 excerpt: "Fine-tuning GPT-2 for Dictionary-based Language Generation"
 collection: portfolio
+permalink: /portfolio/4_gpt2
+
 ---
 
 

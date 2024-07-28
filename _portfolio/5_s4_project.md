@@ -3,6 +3,8 @@ title: "5. Structured State Space Models (S4) Applied to RL as a replacement of 
 excerpt: "Implemented the innovative S4 model as a
 replacement for a Transformer. Reduced by 86% the number of trainable parameters required."
 collection: portfolio
+permalink: /portfolio/5_s4_project
+
 ---
 
 ### Sequential Decision Modelling using Structured State Spaces
