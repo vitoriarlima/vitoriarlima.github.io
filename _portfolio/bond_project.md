@@ -4,7 +4,7 @@ excerpt: "An analysis and literature review of factor investing in fixed income,
 collection: portfolio
 ---
 
-# Principal Component Analysis of the Term Structure of European Interest Rate Yields
+#### Principal Component Analysis of the Term Structure of European Interest Rate Yields
 
 ## Overview
 
@@ -50,8 +50,8 @@ To read the full analysis, you can download the [PDF file](https://vitoriarlima.
 
 ### Pretty Visualizations
 
-![Bond Maturities over time](../files/Bond_.png)
+![Bond Maturities over time](/files/Bond_.png)
 
-![Time Path of the Term Structure](../files/Bond_2.png)
+![Time Path of the Term Structure](/files/Bond_2.png)
 
 ![Yield Curves from AAA rate bonds in the european area](/files/Bond_3.png)

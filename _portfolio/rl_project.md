@@ -4,7 +4,7 @@ excerpt: "Work done under the supervision of Professor Daniel Bruder and Profess
 collection: portfolio
 ---
 
-# Curriculum Complexity: A Framework for Computationally Efficient Reinforcement Learning Control of Soft Robotic Agents
+#### Curriculum Complexity: A Framework for Computationally Efficient Reinforcement Learning Control of Soft Robotic Agents
 
 ## Overview
 
@@ -45,6 +45,6 @@ This framework demonstrates the potential of curriculum learning in enhancing th
 
 ### Repository and Resources
 
-To read the full analysis, you can download the [PDF file](../files/Vitoria___Master_Thesis.pdf).
+To read the full analysis, you can download the [PDF file](/files/Vitoria___Master_Thesis.pdf).
 
 

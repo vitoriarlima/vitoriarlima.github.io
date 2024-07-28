@@ -5,7 +5,7 @@ replacement for a Transformer. Reduced by 86% the number of trainable parameters
 collection: portfolio
 ---
 
-# Sequential Decision Modelling using Structured State Spaces
+#### Sequential Decision Modelling using Structured State Spaces
 
 ## Overview
 
