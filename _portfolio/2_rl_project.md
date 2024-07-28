@@ -10,7 +10,7 @@ permalink: /portfolio/2_rl_project
 
 <div style="text-align: center;">
     <figure>
-        <img src="/files/curr_compl.png" alt="Curr" width="500" />
+        <img src="/files/curr_compl.png" alt="Curr" width="200" />
         <figcaption>Figure 1: In Blue is the training with Curriculum Learning per simulation complexity. In Red is a training with the most 'complex' simulation throughout the entire training process. As seen from the graphs on the right, the training done with Curriculum Complexity are successfully completed in almost <strong>half</strong> of the training time and compute. </figcaption>
     </figure>
 </div>
@@ -40,10 +40,11 @@ This project presents a framework for reducing the computational expense associa
 
 <div style="text-align: center;">
     <figure>
-        <img src="/files/without_curr_compl.png" alt="Curr2" width="500" />
-        <figcaption>Figure 2: The more complexity is added, the more the agent is able to learn the physics of movement and the more rewards are achieved in the RL training Process. But this comes at the expense of time compute, see how the Red Line (most complex simulaiton) takes almost 4x as the least complex simulation to complete.  
+        <img src="/files/without_curr_compl.png" alt="Curr2" width="300" />
+        <figcaption>Figure 2: The more complexity is added, the more the agent is able to learn the physics of movement and the more rewards are achieved in the RL training Process. But this comes at the expense of time compute, see how the Red Line (most complex simulation) takes almost 4x as the least complex simulation to complete. </figcaption> 
     </figure>
 </div>
+
 
 
 #### Curriculum Complexity
