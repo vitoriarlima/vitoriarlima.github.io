@@ -125,14 +125,22 @@ This project successfully fine-tuned the GPT-2 model for dictionary-based langua
 
 
 # Fine-tuning GPT-2 for Dictionary-based Language Generation
-
 <div style="text-align: center;">
+    <figure style="display: inline-block;">
+        <img src="/files/transformer_layer.png" alt="Language Generation Example 1" style="width: 100px; height: 200px;" />
+        <figcaption>Figure 1: A transformer Layer</figcaption>
+    </figure>
+</div>
+
+
+
+<!-- <div style="text-align: center;">
     <figure>
         <img src="/files/transformer_layer.png" alt="Language Generation Example 1" width="100" height="200"/>
         <figcaption>Figure 1: A transformer Layer</figcaption>
     </figure>
 </div>
-
+ -->
 
 ## Overview
 
