@@ -28,7 +28,7 @@ I have taken coursework in data science, numerical methods, reinforcement learni
 
 ### About Me
 
-I speak 5 languages (Italian, Spanish, Portuguese, German, English) fluently, and counting (learning Russian), and I have so far lived in 6 countries, and counting. I am a lover of communication and of different cultures. Also, I am a first-gen student, hence if you are applying to Harvard and are a first-gen, do not hesitate to contact me with questions. Additionally, I have a cat and I love surfing. Particularly, I love longboarding, and I dream of hang ten one day soon.
+I speak 5 languages (Italian, Spanish, Portuguese, German, English) fluently, and counting (learning Russian), and I have so far lived in 6 countries, and counting. I am a lover of communication and of different cultures. Also, I am a first-gen student, hence if you are applying to Harvard and are a first-gen, do not hesitate to contact me with questions. Additionally, I have a cat and I love surfing. Particularly, I love longboarding, and I dream of [hang ten](https://www.surfertoday.com/surfing/how-to-hang-ten) one day soon.
 
 ### Finance ~ Banking
 
