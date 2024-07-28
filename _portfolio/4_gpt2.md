@@ -128,7 +128,7 @@ This project successfully fine-tuned the GPT-2 model for dictionary-based langua
 
 <div style="text-align: center;">
     <figure>
-        <img src="/files/transformer_layer.png" alt="Language Generation Example 1" width="50" height="100>
+        <img src="/files/transformer_layer.png" alt="Language Generation Example 1" width="50" height="100"/>
         <figcaption>Figure 1: A transformer Layer</figcaption>
     </figure>
 </div>
