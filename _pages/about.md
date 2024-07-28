@@ -7,19 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is my professional website.
+Welcome to my corner of the internet! This is my professional website.
 
-I am a master's graduate of [SEAS at Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering).
+I am a Machine Learning Engineer and recent master's graduate of [SEAS at Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). In the time of my master’s, I completed my master thesis and was a research fellow at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/), advised by Prof. Robert Wood and Prof. [Daniel Bruder](https://danielbruder.com/), where I worked towards reducing the time needed to train reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software).
 
-In the time of my master’s, I completed my master thesis and was a research fellow at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/), advised by Prof. Robert Wood and Prof. [Daniel Bruder](https://danielbruder.com/), where I worked towards reducing the time needed to train reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software).
-
-I have taken coursework in data science, numerical methods, reinforcement learning, computer vision, deep learning, and natural language processing. I am excited about where the ML industry is going ~ even if keeping up with the AI news today is a hustle. If you would like to connect to chat over recent AI developments, you can reach out to me in the email above.
-
-What excites me within ML/AI these days:
+I have taken coursework in data science, numerical methods, reinforcement learning, computer vision, deep learning, and natural language processing ~ and I am so excited about where the ML industry is going. What excites me the most within ML/AI these days:
 - anything related to state space models (S4, Mamba, and friends)
 - [unsloth](https://unsloth.ai/introducing) and creative mathematical ways to improve/speed up deep learning 
 
-Me
+About Me
 ====
 I speak 5 languages (Italian, Spanish, Portuguese, German, English) fluently, and counting (learning Russian), and I have so far lived in 6 countries, and counting. I am a lover of communication and of different cultures. Also, I am a first-gen student, hence if you are applying to Harvard and are a first-gen, do not hesitate to contact me with questions. Additionally, I have a cat and I love surfing. Particularly, I love longboarding, and I dream of hang ten one day soon.
 
