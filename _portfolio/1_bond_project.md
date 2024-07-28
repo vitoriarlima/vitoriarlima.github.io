@@ -48,7 +48,7 @@ This project explores the application of Principal Component Analysis (PCA) to t
 
 - **Shift, Slope, and Curvature**: The first three PCs effectively represent the shift, slope, and curvature of the yield curve, consistent with findings in previous literature.
 <div style="text-align: center;">
-    <img src="/files/3pcs_bonds.png" alt="Bond" width="500" />
+    <img src="/files/3pcs_bonds.png" alt="Bond" width="800" />
 </div>
 
 - **Interest Rate Environment**: Contrary to some recent studies, this analysis finds no significant difference in the efficacy of PCA between positive and negative interest rate environments. The amount of variability explained by the first three PCs remains substantial in both cases.
