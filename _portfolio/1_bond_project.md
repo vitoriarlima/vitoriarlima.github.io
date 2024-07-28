@@ -4,7 +4,7 @@ excerpt: "An analysis and literature review of factor investing in fixed income,
 collection: portfolio
 ---
 
-#### Principal Component Analysis of the Term Structure of European Interest Rate Yields
+### Principal Component Analysis of the Term Structure of European Interest Rate Yields
 
 ## Overview
 
