@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Overview
 
-This project explores the application of Principal Component Analysis (PCA) to the term structure of European interest rate yields over the period from 2004 to 2020. The dataset includes daily interest rate yields of AAA-rated bonds from various maturities, spanning from one year to thirty years. The primary aim is to investigate the efficacy of PCA in identifying the main factors that drive changes in the yield curve, especially in different interest rate environments.
+This project explores the application of Principal Component Analysis (PCA) to the term structure of European interest rate yields over the period from 2004 to 2020. The dataset includes daily interest rate yields of AAA-rateds bonds from various maturities, spanning from one year to thirty years. The primary aim is to investigate the efficacy of PCA in identifying the main factors that drive changes in the yield curve, especially in different interest rate environments.
 
 ### Key Objectives
 

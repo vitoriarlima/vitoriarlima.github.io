@@ -1,5 +1,5 @@
 ---
-title: "3. Structured State Space Models (S4) Applied to RL as a replacement of Transformers"
+title: "5. Structured State Space Models (S4) Applied to RL as a replacement of Transformers"
 excerpt: "Implemented the innovative S4 model as a
 replacement for a Transformer. Reduced by 86% the number of trainable parameters required."
 collection: portfolio
@@ -55,6 +55,6 @@ Slides deck presentation of the results [here](https://docs.google.com/presentat
 ### Pretty Visualizations
 
 <div style="text-align: center;">
-    <img src="../files/s4dm.gif" alt="HalfCheetah" width="500" />
-    <img src="../files/s4dm1.gif" alt="Walker2d" width="500" />
+    <img src="/files/s4dm.gif" alt="HalfCheetah" width="500" />
+    <img src="/files/s4dm1.gif" alt="Walker2d" width="500" />
 </div>
