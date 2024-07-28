@@ -1,5 +1,5 @@
 ---
-title: "2. Curriculum Complexity applied in RL simulation complexity to lighten and speed up an agent's training time."
+title: "Project 2: Curriculum Complexity applied in RL simulation complexity to lighten and speed up an agent's training time."
 excerpt: "Work done under the supervision of Professor Daniel Bruder and Professor Robert Wood at the Harvard's Microrobotics Lab."
 collection: portfolio
 permalink: /portfolio/2_rl_project
