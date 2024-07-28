@@ -1,5 +1,5 @@
 ---
-title: "PCA on a Bonds Portfolio"
+title: "1. PCA on a Bonds Portfolio"
 excerpt: "An analysis and literature review of factor investing in fixed income, where the first three components can be attributed to actual meanings in a Bonds Portfolio setting."
 collection: portfolio
 ---

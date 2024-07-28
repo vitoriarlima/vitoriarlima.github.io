@@ -1,7 +1,7 @@
 ---
 title: "Note No.1"
 excerpt: "Building Good Habits. Tidying up my AI/ML and finance notes."
-collection: notes
+collection: portfolio
 ---
 
 Note 1. 
