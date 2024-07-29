@@ -10,6 +10,38 @@ redirect_from:
 
 ### TLDR
 
+- **ML Engineer**: Harvard CS Master’s Grad ([Computational Science and Engineering](https://seas.harvard.edu/masters-computational-science-and-engineering))
+- **Polyglot**: Fluent in 5+ languages and a world traveler (Italian, Brazilian citizen + US work visa)
+- **Finance Specialist**: Former trader at Bank of America and Goldman Sachs
+- **Explore** my AI/ML and finance-related projects [here](https://vitoriarlima.github.io/portfolio/)
+- **For Recruiters**: Resume/CV [here](https://vitoriarlima.github.io/cv.pdf)
+
+---
+
+## Welcome to my corner of the internet!
+
+I am a multi-sector specialist with a Master's in Computational Science and Engineering from [Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). As an ERP fellow, I specialized in data science methods and machine learning, culminating in a research fellowship at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/). There, I accelerated the training of reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software), advised by esteemed professors Robert Wood and [Daniel Bruder](https://danielbruder.com/). My academic journey also includes a Bachelor's degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), where I excelled in quantitative analysis and received the Best Thesis Award from the German Central Bank for my work on [PCA applied to the European term structure](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf).
+
+In the finance sector, I have a wealth of experience as a Trading Analyst at [Bank of America Merrill Lynch](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI), specializing in European Government Bonds and macro products. My contributions in tech include pioneering deep learning research at Hyundai ~Motional's R&D, advancing self-driving car technology. Currently, I serve as a Machine Learning Engineer at [Weights and Biases](https://wandb.ai/), where I guide enterprise customers such as OpenAI, NVIDIA, and Microsoft in optimizing their machine learning experiments, ensuring their success and contract renewals.
+
+#### What excites me in AI right now:
+
+- **State Space Models**: Innovations with [S4](https://srush.github.io/annotated-s4/), [Mamba](https://github.com/state-spaces/mamba), and similar frameworks
+- **Deep Learning Efficiency**: Pioneering mathematical methods to enhance and expedite deep learning processes
+
+### About Me
+
+Fluent in five languages (Italian, Spanish, Portuguese, German, English) and currently learning Russian, I have lived in six countries. As a first-generation student, I am dedicated to supporting others from similar backgrounds. Outside of my professional endeavors, I am an avid surfer and longboarder, always seeking new adventures.
+
+### Finance and Banking
+
+Before venturing into machine learning, I was an interest rates trader for European government bonds at [Bank of America](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI) and [Goldman Sachs](https://www.goldmansachs.com/what-we-do/FICC-and-equities/). My Bachelor's thesis, which applied PCA to the European term structure, received the [Best Thesis Award from the German Central Bank](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/lehre/foerderpreis_monetaere_makro/index.html). This solid foundation in finance complements my current AI and ML projects, driving innovation and excellence in all my work.
+
+
+
+
+<!-- ### TLDR
+
 - ML engineer. **Harvard** CS Master's Grad (computational science and engineering) 
 - polyglot (5+ fluent languages) and world traveller (italian, brazilian citizen + us work visa) 
 - previously trader at **Bank of America** and **Goldman Sachs**
@@ -33,5 +65,5 @@ I speak 5 languages (Italian, Spanish, Portuguese, German, English) fluently, an
 
 ### Finance ~ Banking
 
-Before venturing into machine learning, I was an interest rates trader for European government bonds at [Bank of America](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI) and at [Goldman Sachs](https://www.goldmansachs.com/what-we-do/FICC-and-equities/). I obtained my bachelor’s degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html) in Germany. My Bachelor's degree Thesis was in [PCA applied to the European term structure (European yield bond curves)](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf), answering the question of whether PCs would be affected by a negative interest rates environment. It was warmly welcomed and won [1st prize](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/lehre/foerderpreis_monetaere_makro/index.html) for best thesis of the year in my Econometrics department at the time, with a generous donation from the German Central Bank (Deutsche Bundesbank).
+Before venturing into machine learning, I was an interest rates trader for European government bonds at [Bank of America](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI) and at [Goldman Sachs](https://www.goldmansachs.com/what-we-do/FICC-and-equities/). I obtained my bachelor’s degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html) in Germany. My Bachelor's degree Thesis was in [PCA applied to the European term structure (European yield bond curves)](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf), answering the question of whether PCs would be affected by a negative interest rates environment. It was warmly welcomed and won [1st prize](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/lehre/foerderpreis_monetaere_makro/index.html) for best thesis of the year in my Econometrics department at the time, with a generous donation from the German Central Bank (Deutsche Bundesbank). -->
 
