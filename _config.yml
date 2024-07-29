@@ -210,7 +210,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
