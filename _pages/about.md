@@ -28,7 +28,7 @@ In the finance sector, I have a wealth of experience as a Trading Analyst at [Ba
 ### What excites me in AI right now:
 
 - **State Space Models**: Innovations with [S4](https://srush.github.io/annotated-s4/), [Mamba](https://github.com/state-spaces/mamba), and similar frameworks
-- **Deep Learning Efficiency**: Pioneering mathematical methods to enhance and expedite deep learning processes
+- **Deep Learning Efficiency**: Pioneering mathematical methods to enhance and expedite deep learning processes, like [unsloth](https://unsloth.ai/introducing)
 
 ### About Me
 
