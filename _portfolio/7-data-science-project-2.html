@@ -1,0 +1,83 @@
+---
+title: "Project 7: Identifying High-Potential Accounts for Sales Targeting"
+excerpt: "A Data-Driven Approach to Identifying High-Potential Accounts for Sales Targeting using Additive Logistic Regression."
+collection: portfolio
+category: data-science
+permalink: /portfolio/7-data-science-project-1
+---
+
+
+<div style="text-align: center; margin-bottom: 20px;">
+    <figure style="display: inline-block;">
+        <img src="/files/tal.png" alt="Project Image" style="width: 800px;" />
+        <figcaption>Figure 1: Overview of the Sales Targeting Project</figcaption>
+    </figure>
+</div>
+
+<h1>Identifying High-Potential Accounts for Sales Targeting</h1>
+
+<h2>Overview</h2>
+<p>This project focuses on identifying high-potential accounts for sales targeting using a data-driven approach. We leveraged a Target Account List (TAL) to identify 30 high-potential accounts, yielding potentially ~5.4 million USD yearly.</p>
+
+<h3>Data Overview</h3>
+<p>The dataset consists of over 3,000 companies across six different datasets. For training and testing purposes, the data was divided as follows:</p>
+<ul>
+  <li>Train: 254 observations (122 sales)</li>
+  <li>Test: 132 observations</li>
+</ul>
+<p>Feature engineering was applied to enhance the dataset, resulting in around 100 features including lag and rolling features, days between engagements, average weekly engagement rate, etc.</p>
+
+<h3>Feature Selection</h3>
+<p>Random Forest was used for feature selection to identify the most important predictors for the model.</p>
+
+<h3>Model: Additive Logistic Regression</h3>
+<p>The model used for predicting high-potential accounts is Additive Logistic Regression. This model allows us to handle the sparsity in the data and provides a probabilistic framework for prediction.</p>
+
+<div class="math">
+  <p>The logistic regression model is defined as:</p>
+  <p>
+    \[
+    P(Y = 1 | X) = \frac{1}{1 + e^{-(\beta_0 + \sum_{i=1}^{n} \beta_i X_i)}}
+    \]
+  </p>
+  <p>Where:</p>
+  <ul>
+    <li>\( P(Y = 1 | X) \) is the probability that the outcome \( Y \) is 1 given the predictors \( X \).</li>
+    <li>\( \beta_0 \) is the intercept term.</li>
+    <li>\( \beta_i \) are the coefficients for each predictor \( X_i \).</li>
+  </ul>
+  <p>In our additive model, we include interaction terms and polynomial terms to capture non-linear relationships:</p>
+  <p>
+    \[
+    P(Y = 1 | X) = \frac{1}{1 + e^{-(\beta_0 + \sum_{i=1}^{n} \beta_i X_i + \sum_{j=1}^{m} \gamma_j Z_j)}}
+    \]
+  </p>
+  <p>Where:</p>
+  <ul>
+    <li>\( Z_j \) represents interaction or polynomial terms derived from the original predictors.</li>
+    <li>\( \gamma_j \) are the coefficients for these interaction or polynomial terms.</li>
+  </ul>
+</div>
+
+<h3>Prediction Results</h3>
+<p>The model provided the following prediction results:</p>
+<ul>
+  <li>With 4 predictors: Identified 40 potential customers</li>
+  <li>With 10 predictors: Identified 35 potential customers (30 in common with the 4 predictors model)</li>
+</ul>
+<p>The potential revenue from these high-potential accounts is estimated to be:</p>
+<ul>
+  <li>Total of ~3.9 million USD with the 4 predictors model</li>
+  <li>Total of ~1.6 million USD with the 10 predictors model</li>
+</ul>
+
+<h3>Insights and Business Impact</h3>
+<p>This project provided significant insights and had a substantial business impact. It highlighted the most important factors driving sales and helped prioritize accounts with the highest potential, thereby optimizing the sales strategy.</p>
+
+
+<h3>Repository and Resources</h3>
+<p>For more details and access to the code, please visit the <a href="https://github.com/vitoriarlima/tal-sales-cockpit/tree/main">GitHub Repository</a>.</p>
+<p>To read the full analysis, you can download the <a href="https://github.com/vitoriarlima/tal-sales-cockpit/blob/main/tal_presentation.pdf">PDF file</a>.</p>
+
+</body>
+</html>
