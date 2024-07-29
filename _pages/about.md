@@ -18,13 +18,15 @@ redirect_from:
 
 ---
 
-## Welcome to my corner of the internet!
+## Welcome: 
+### Benvenuto (Italian), Bienvenido (Spanish), Bem-vindo (Portuguese), Willkommen (German), Welcome (English), Добро пожаловать (Russian)
+
 
 I am a multi-sector specialist with a Master's in Computational Science and Engineering from [Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). As an ERP fellow, I specialized in data science methods and machine learning, culminating in a research fellowship at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/). There, I accelerated the training of reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software), advised by esteemed professors Robert Wood and [Daniel Bruder](https://danielbruder.com/). My academic journey also includes a Bachelor's degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), where I excelled in quantitative analysis and received the Best Thesis Award from the German Central Bank for my work on [PCA applied to the European term structure](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf).
 
 In the finance sector, I have a wealth of experience as a Trading Analyst at [Bank of America Merrill Lynch](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI), specializing in European Government Bonds and macro products. My contributions in tech include pioneering deep learning research at Hyundai ~Motional's R&D, advancing self-driving car technology. Currently, I serve as a Machine Learning Engineer at [Weights and Biases](https://wandb.ai/), where I guide enterprise customers such as OpenAI, NVIDIA, and Microsoft in optimizing their machine learning experiments, ensuring their success and contract renewals.
 
-#### What excites me in AI right now:
+### What excites me in AI right now:
 
 - **State Space Models**: Innovations with [S4](https://srush.github.io/annotated-s4/), [Mamba](https://github.com/state-spaces/mamba), and similar frameworks
 - **Deep Learning Efficiency**: Pioneering mathematical methods to enhance and expedite deep learning processes
