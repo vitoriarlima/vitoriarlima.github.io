@@ -18,8 +18,7 @@ redirect_from:
 
 ---
 
-## Welcome: 
-### Benvenuto (Italian), Bienvenido (Spanish), Bem-vindo (Portuguese), Willkommen (German), Welcome (English), Добро пожаловать (Russian)
+## Welcome: Benvenuto (Italian), Bienvenido (Spanish), Bem-vindo (Portuguese), Willkommen (German), Welcome (English), Добро пожаловать (Russian)
 
 
 I am a multi-sector specialist with a Master's in Computational Science and Engineering from [Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). As an ERP fellow, I specialized in data science methods and machine learning, culminating in a research fellowship at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/). There, I accelerated the training of reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software), advised by esteemed professors Robert Wood and [Daniel Bruder](https://danielbruder.com/). My academic journey also includes a Bachelor's degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), where I excelled in quantitative analysis and received the Best Thesis Award from the German Central Bank for my work on [PCA applied to the European term structure](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf).
