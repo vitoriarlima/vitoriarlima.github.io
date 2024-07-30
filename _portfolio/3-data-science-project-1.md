@@ -1,5 +1,5 @@
 ---
-title: "Project 3: N Body Simulation"
+title: "Project 1: N Body Simulation"
 excerpt: "Efficient N-body Simulation Using Parallel Computing"
 collection: portfolio
 category: data-science
