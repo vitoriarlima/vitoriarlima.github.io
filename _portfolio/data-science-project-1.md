@@ -3,7 +3,7 @@ title: "Project 1: N Body Simulation"
 excerpt: "Efficient N-body Simulation Using Parallel Computing"
 collection: portfolio
 category: data-science
-permalink: /portfolio/3-data-science-project-1
+permalink: /portfolio/data-science-project-1
 
 ---
 

@@ -3,7 +3,7 @@ title: "Project 2: Curriculum Learning applied in RL simulation complexity to li
 excerpt: "Work done under the supervision of Professor Daniel Bruder and Professor Robert Wood at the Harvard's Microrobotics Lab"
 collection: portfolio
 category: ai
-permalink: /portfolio/2-ai-project-2
+permalink: /portfolio/ai-project-2
 
 ---
 
