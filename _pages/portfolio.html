@@ -1,14 +1,40 @@
 ---
-layout: archive
-title: "Portfolio"
+layout: page
+title: Portfolio
 permalink: /portfolio/
-author_profile: true
 ---
 
-{% include base_path %}
+<h1>Portfolio</h1>
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<h2>Finance Projects</h2>
+{% for project in site.portfolio %}
+  {% if project.category == "finance" %}
+    <div class="portfolio-item">
+      <img src="/thumbnails/{{ project.slug }}.jpg" alt="{{ project.title }}">
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      <p>{{ project.excerpt }}</p>
+    </div>
+  {% endif %}
 {% endfor %}
 
+<h2>AI Projects</h2>
+{% for project in site.portfolio %}
+  {% if project.category == "ai" %}
+    <div class="portfolio-item">
+      <img src="/thumbnails/{{ project.slug }}.jpg" alt="{{ project.title }}">
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      <p>{{ project.excerpt }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<h2>Data Science Projects</h2>
+{% for project in site.portfolio %}
+  {% if project.category == "data-science" %}
+    <div class="portfolio-item">
+      <img src="/thumbnails/{{ project.slug }}.jpg" alt="{{ project.title }}">
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      <p>{{ project.excerpt }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
