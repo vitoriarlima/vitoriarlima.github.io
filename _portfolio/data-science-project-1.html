@@ -1,0 +1,50 @@
+---
+title: "Project 1: N Body Simulation"
+excerpt: "Efficient N-body Simulation Using Parallel Computing"
+collection: portfolio
+category: data-science
+permalink: /portfolio/data-science-project-1
+
+---
+
+<html lang="en">
+
+<body>
+    <div style="text-align: center;">
+        <img src="/files/N_body_simulation_.gif" alt="nbody" width="400" />
+    </div>
+
+    <h2>Overview</h2>
+    <p>This project focuses on developing an efficient and accurate N-body simulation system using high-performance computing techniques. The N-body problem is crucial in fields like astrophysics, cosmology, and aerodynamics, involving the simulation of the motion of a system of particles under the influence of gravitational forces.</p>
+    
+    <h3>Key Objectives</h3>
+    <ul>
+        <li><strong>Algorithm Development:</strong> Create an N-body simulation algorithm that can be parallelized efficiently.</li>
+        <li><strong>Optimization:</strong> Reduce communication overhead and load balancing issues in the parallelization process.</li>
+        <li><strong>High-Performance Implementation:</strong> Implement the simulation on a high-performance computing architecture to handle large-scale systems.</li>
+        <li><strong>Scalability:</strong> Investigate and ensure the scalability of the developed algorithm.</li>
+    </ul>
+    
+    <h3>Methodology</h3>
+    <ul>
+        <li><strong>Cell Lists Algorithm:</strong> Utilizes a grid of cells to reduce computational complexity by focusing on local interactions.</li>
+        <li><strong>Leapfrog Time Integration:</strong> Ensures accurate propagation of particle positions and velocities.</li>
+        <li><strong>Parallelization Techniques:</strong> Combines OpenMP for parallel processing within nodes and MPI for communication between nodes.</li>
+        <li><strong>Performance Analysis:</strong> Conducts roofline and scaling analyses to evaluate the efficiency and scalability of the algorithm.</li>
+    </ul>
+    
+    <h3>Findings</h3>
+    <ul>
+        <li><strong>Efficiency Gains:</strong> The parallelized algorithm demonstrates significant improvements in computation time.</li>
+        <li><strong>Scalability:</strong> The algorithm scales well with the number of processors, though efficiency decreases with increased communication overhead.</li>
+    </ul>
+    
+    <h3>Conclusion</h3>
+    <p>The project successfully develops a highly scalable and efficient N-body simulation system, advancing the computational techniques available for simulating large-scale particle interactions.</p>
+    
+    <h3>Repository and Resources</h3>
+    <p>To read the full analysis, you can download the <a href="/files/N_body_simulation.pdf">PDF file</a>.</p>
+
+</body>
+</html>
+
