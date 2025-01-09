@@ -15,7 +15,7 @@ redirect_from:
 - **Finance Specialist**: Former trader at Bank of America and Goldman Sachs
 - **Explore** my AI/ML and finance-related projects [here](https://vitoriarlima.github.io/portfolio/)
 - **For Recruiters**: Resume/CV [here](https://vitoriarlima.github.io/cv.pdf)
-- **Are you in the job market?**: Yes! Hit me up for roles with product impact that require AI expertise and a restless, positive, can-do personality. Eager to find out and join early stage AI startups. Reach out to me at vitoria@vitorialima.com 
+- **Are you in the job market?**: Nope! But I know many talented people that do. If you are looking for ML Engineers, I would be more than happy to connect you to my network. Feel free to reach out to my personal email vitoria@vitorialima.com
 
 
 ---
@@ -26,6 +26,8 @@ redirect_from:
 I am a multi-sector specialist with a Master's in Computational Science and Engineering from [Harvard University](https://gsas.harvard.edu/program/computational-science-and-engineering). As an ERP fellow, I specialized in data science methods and machine learning, culminating in a research fellowship at the [Microrobotics Lab](https://www.micro.seas.harvard.edu/). There, I accelerated the training of reinforcement learning algorithms for [soft robotic arms](https://www.micro.seas.harvard.edu/software), advised by esteemed professors Robert Wood and [Daniel Bruder](https://danielbruder.com/). My academic journey also includes a Bachelor's degree in Economics from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), where I excelled in quantitative analysis and received the Best Thesis Award from the German Central Bank for my work on [PCA applied to the European term structure](https://vitoriarlima.github.io/files/PCA_Bond_Portfolio.pdf).
 
 In the finance sector, I have a wealth of experience as a Trading Analyst at [Bank of America Merrill Lynch](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI), specializing in European Government Bonds and macro products. My contributions in tech include pioneering deep learning research at Hyundai ~Motional's R&D, advancing self-driving car technology. Most recently, I served as a Machine Learning Engineer at [Weights and Biases](https://wandb.ai/), where I guided enterprise customers such as OpenAI, NVIDIA, and Microsoft in optimizing their machine learning experiments, ensuring their success and contract renewals.
+
+Now: building @ Distyl AI. I just joined as an AI strategist helping enterprise customer apply AI to extract actual useful value out of this new and powerful technology.
 
 ### What excites me in AI right now:
 
