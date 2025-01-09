@@ -14,8 +14,8 @@ redirect_from:
 - **Polyglot**: Fluent in 5+ languages and a world traveler (Italian, Brazilian citizen + US work visa)
 - **Finance Specialist**: Former trader at Bank of America and Goldman Sachs
 - **Explore** my AI/ML and finance-related projects [here](https://vitoriarlima.github.io/portfolio/)
-- **For Recruiters**: Resume/CV [here](https://vitoriarlima.github.io/cv.pdf)
 - **Are you in the job market?**: Nope! But I know many talented people that are. If you are looking for ML Engineers, I would be more than happy to connect you to my network. Feel free to reach out to my personal email vitoria@vitorialima.com
+- **Work work work work (singing in Rihanna)**: just joined the brilliant team at [Distyl AI](https://distyl.ai/).
 
 
 ---
@@ -27,12 +27,13 @@ I am a multi-sector specialist with a Master's in Computational Science and Engi
 
 In the finance sector, I have a wealth of experience as a Trading Analyst at [Bank of America Merrill Lynch](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI), specializing in European Government Bonds and macro products. My contributions in tech include pioneering deep learning research at Hyundai ~Motional's R&D, advancing self-driving car technology. Most recently, I served as a Machine Learning Engineer at [Weights and Biases](https://wandb.ai/), where I guided enterprise customers such as OpenAI, NVIDIA, and Microsoft in optimizing their machine learning experiments, ensuring their success and contract renewals.
 
-Now: building @ Distyl AI. I just joined as an AI strategist helping enterprise customers apply AI to extract actually useful value out of this new and powerful technology.
+Now: building @ [Distyl AI](https://distyl.ai/). I just joined as an AI strategist helping enterprise customers apply AI to extract actually useful value out of this new and powerful technology.
 
 ### What excites me in AI right now:
 
 - **State Space Models**: Innovations with [S4](https://srush.github.io/annotated-s4/), [Mamba](https://github.com/state-spaces/mamba), and similar frameworks
 - **Deep Learning Efficiency**: Pioneering mathematical methods to enhance and expedite deep learning processes, like [unsloth](https://unsloth.ai/introducing)
+- **Products**: You will find more about my opinions on my personal website / blogs [here](https://www.vitorialima.com/).
 
 ### About Me
 
