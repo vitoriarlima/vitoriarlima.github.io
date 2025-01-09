@@ -27,7 +27,7 @@ I am a multi-sector specialist with a Master's in Computational Science and Engi
 
 In the finance sector, I have a wealth of experience as a Trading Analyst at [Bank of America Merrill Lynch](https://markets.ml.com/login?resumePath=https%3A%2F%2Ffedsso.ml.com%2Fas%2FO7zQe%2Fresume%2Fas%2Fauthorization.ping&vnd_pi_requested_resource=https%3A%2F%2Fmarkets.ml.com%2F&vnd_pi_application_name=A2521MercuryPortalAPI&client_id=A2521MercuryPortalAPI), specializing in European Government Bonds and macro products. My contributions in tech include pioneering deep learning research at Hyundai ~Motional's R&D, advancing self-driving car technology. Most recently, I served as a Machine Learning Engineer at [Weights and Biases](https://wandb.ai/), where I guided enterprise customers such as OpenAI, NVIDIA, and Microsoft in optimizing their machine learning experiments, ensuring their success and contract renewals.
 
-Now: building @ Distyl AI. I just joined as an AI strategist helping enterprise customer apply AI to extract actually useful value out of this new and powerful technology.
+Now: building @ Distyl AI. I just joined as an AI strategist helping enterprise customers apply AI to extract actually useful value out of this new and powerful technology.
 
 ### What excites me in AI right now:
 
